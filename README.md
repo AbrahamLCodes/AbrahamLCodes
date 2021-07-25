@@ -1,8 +1,11 @@
 🔥🔥🔥🔥🔥🔥🔥 Hello, World. I'm Abraham, a full time Software Developer 🔥🔥🔥🔥🔥🔥🔥
 
  $~ I'm currently working as Full Stack Full Time Software Developer at a digital marketing agency in Ciudad Juárez, México.🇲🇽🇲🇽
+ 
  $~ Future Software Engineer 💻👷🏼‍♂️.
+ 
  $~ Check out my website: https://abrahamsportfolio.herokuapp.com/ 🧑🏻‍💻
+ 
  $~ My current Stack is Angular, TypeScript, PHP, Laravel, MySQL.🛸
  
  $~ My work environment:
