@@ -1,6 +1,6 @@
-🔥🔥🔥🔥🔥🔥🔥 Hello, World. I'm Abraham, a full time Software Developer 🔥🔥🔥🔥🔥🔥🔥
+🔥🔥🔥🔥🔥🔥🔥 Hello, World. I'm Abraham, full time Software Developer 🔥🔥🔥🔥🔥🔥🔥
 
- $~ I'm currently working as Full Stack Full Time Software Developer at a digital marketing agency in Ciudad Juárez, México.🇲🇽🇲🇽
+ $~ I'm currently working as Full Stack Full Time Software Solutions Developer at a digital marketing agency in Ciudad Juárez, México.🇲🇽🇲🇽
  
  $~ Future Software Engineer 💻👷🏼‍♂️.
  
@@ -23,10 +23,10 @@
       
  $~ My top 5 Frameworks:
       1* Angular.
-      2* Laravel.
+      2* React.
       3* SwiftUI.
-      4* React.
-      5* 
+      4* Express.
+      5* Laravel.
  
  $~ Human languages:
       * Spanish (Mexico). 🇲🇽
