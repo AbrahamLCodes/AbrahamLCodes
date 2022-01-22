@@ -1,7 +1,6 @@
-<h3>Hello, world! I'm Abraham, a full-stack web and mobile developer</h4>
+<h3>Hello, world! I'm Abraham, a full-stack web and mobile developer</h3>
 <strong>Next to become software engineer 👷🏽‍♂️</strong> 
 <br>
-<p>[Duck Duck Go](https://duckduckgo.com)</p>
 Checkout my [Website](https://abrahamsportfolio.herokuapp.com "Personal Website")
 <br>
 <br>
