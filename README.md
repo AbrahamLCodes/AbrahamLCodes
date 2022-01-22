@@ -13,7 +13,7 @@ Check out my [Website](https://abrahamsportfolio.herokuapp.com/)
 <strong>Work Environment:</strong>
 <ul>
  <li><strong>SO:</strong>&nbsp;MacOS Monterey and Ubuntu 20.04</li>
- <li><strong>Hardware:&nbsp;<pre> MacBook Pro late 2019</li>
+ <li><strong>Hardware:</strong>&nbsp; MacBook Pro late 2019</li>
 </ul>
 
 <strong>Languages:</strong>
