@@ -1,18 +1,22 @@
-🔥🔥🔥🔥🔥🔥🔥 Hello, World. I'm Abraham, A Full-Stack Web and Mobile Developer 🔥🔥🔥🔥🔥🔥🔥
+<h2>Hello, World. I'm Abraham, A Full-Stack Web and Mobile Developer</h2>
+<h3>Future Software Engineer.</h3> 
 
-Future Software Engineer 💻👷🏼‍♂️. 
-Check out my website: https://abrahamsportfolio.herokuapp.com/ 🧑🏻‍💻
+<strong>Check out my website</strong>: [Website](https://abrahamsportfolio.herokuapp.com/)
 
-My Stacks:
-Web: Angular, Bootstrap, Strapi/NodeJS, MySQL.🛸
-Mobile: Angular, Ionic, Capacitor, Kotlin and Swift.
+<strong>Stacks</strong>
+<ul>
+ <li><strong>Web:</strong>Angular, Bootstrap, Strapi/NodeJS, MySQL</li>
+ <li><strong>Mobile:</strong>Angular, Ionic, Capacitor, Kotlin and Swift.</li>
+</ul> 
 
-Work Environment:
-SO: MacOS Monterey and Ubuntu 20.04.
-Hardware: MacBook Pro late 2019.
+<strong>Work Environment:</strong>
+<ul>
+ <li><strong>SO:</strong> MacOS Monterey and Ubuntu 20.04.</li>
+ <li><strong>Hardware:</strong>MacBook Pro late 2019.</li>
+</ul>
 
-Languages:
-* Spanish (Mexico). 🇲🇽
-* English (USA). 🇺🇸
- 
-
+<strong>Language:</strong>
+<ul>
+ <li>Spanish (Mexico)</li>
+ <li>English (USA)</li>
+</ul>
