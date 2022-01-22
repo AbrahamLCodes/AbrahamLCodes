@@ -1,8 +1,10 @@
 <h3>Hello, World! I'm Abraham, A Full-Stack Web and Mobile Developer</h4>
 <br>
 <strong>Next to become software engineer 👷🏽‍♂️</strong> 
+<br>
 <strong>Check out my </strong> [Website](https://abrahamsportfolio.herokuapp.com/) 
-
+<br>
+<br>
 <strong>Stacks</strong>
 <ul>
  <li><strong>Web:</strong><p>Angular, Bootstrap, Strapi/NodeJS, MySQL</p></li>
