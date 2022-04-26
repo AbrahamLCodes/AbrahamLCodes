@@ -6,7 +6,7 @@ Checkout my Website: https://abrahamsportfolio.herokuapp.com
 <br>
 <strong>Stacks</strong>
 <ul>
- <li><strong>Web:</strong>&nbsp;Angular, Bootstrap, Strapi/NodeJS, MySQL</li>
+ <li><strong>Web:</strong>&nbsp;Angular, Bootstrap, ASP.NET, Strapi/NodeJS, MySQL, SQL Server</li>
  <li><strong>Mobile:</strong>&nbsp;Angular, Ionic, Capacitor, Kotlin and Swift</li>
 </ul> 
 
