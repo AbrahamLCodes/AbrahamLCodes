@@ -1,7 +1,6 @@
-<h3>Hello, world! I'm Abraham, a full-stack web and mobile developer</h3>
-<strong>Software Engineer 👷🏽‍♂️</strong> 
+<h3>Hello, world! I'm Abraham, a full-stack web and mobile software engineer</h3>
 <br>
-Checkout my Website: https://abrahamsportfolio.herokuapp.com
+Checkout my Website: https://alcwebsite-e76a7.web.app
 <br>
 <br>
 <strong>Stacks</strong>
