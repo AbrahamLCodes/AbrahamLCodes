@@ -1,5 +1,5 @@
 <h3>Hello, world! I'm Abraham, a full-stack web and mobile developer</h3>
-<strong>Next to become software engineer 👷🏽‍♂️</strong> 
+<strong>Software Engineer 👷🏽‍♂️</strong> 
 <br>
 Checkout my Website: https://abrahamsportfolio.herokuapp.com
 <br>
@@ -7,7 +7,7 @@ Checkout my Website: https://abrahamsportfolio.herokuapp.com
 <strong>Stacks</strong>
 <ul>
  <li><strong>Web:</strong>&nbsp;Angular, Bootstrap, ASP.NET, Strapi/NodeJS, MySQL, SQL Server</li>
- <li><strong>Mobile:</strong>&nbsp;Angular, Ionic, Capacitor, Kotlin and Swift</li>
+ <li><strong>Mobile:</strong>&nbsp;Angular, Ionic, Capacitor, native Android with Kotlin and Java & native iOS with Swift</li>
 </ul> 
 
 <strong>Work Environment:</strong>
